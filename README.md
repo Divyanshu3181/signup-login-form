@@ -20,7 +20,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/react-login-signup.git
+git clone https://github.com/Divyanshu3181/signup-login-form.git
 cd react-login-signup
 2. Install Dependencies
 Ensure you have Node.js and npm or yarn installed. Run:
